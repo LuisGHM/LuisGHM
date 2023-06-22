@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGHM&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoAvilaa&show_icons=true&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisGHM&show_icons=true&theme=tokyonight"/>
 </div>
 
 ## 👨‍💻 Ferramentas e Tecnologias
