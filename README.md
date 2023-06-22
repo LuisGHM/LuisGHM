@@ -1,4 +1,4 @@
-### Olá! Eu sou o Luis Gustavo Hedel Marchiore
+## Olá! Eu sou o Luis Gustavo Hedel Marchiore
 
 - 🌱 Estou estudando desenvolvimento full stack na Kenzie Academy Brasil e estou no quinto período da faculdade de engenharia de software.
 
