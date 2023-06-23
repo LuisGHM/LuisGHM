@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Gustavo Hedel Marchiore</h1>
 
-- 🌱 I'm studying full stack development at Kenzie Academy Brazil and I'm in the 5th semester of my software engineering degree.
+- 🌱 I'm studying full stack development at Kenzie Academy Brasil and I'm in the 5th semester of my software engineering degree.
 
 <div style="display: inline_block"><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGHM&layout=compact&langs_count=7&theme=tokyonight"/>
