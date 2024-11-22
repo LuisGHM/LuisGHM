@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Gustavo Hedel Marchiore</h1>
 
-- 🌱 I'm studying full stack development at Kenzie Academy Brasil and I'm in the 8th semester of my software engineering degree.
+- 🌱 I'm in the 8th semester of my Software Engineering degree.
 
 <div>
 <a href="https://github.com/LuisGHM">
