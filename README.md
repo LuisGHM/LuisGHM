@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Luis Gustavo Hedel Marchiore</h1>
 
+<p align="center">
+  I'm a Software Engineer passionate about turning complex ideas into elegant, efficient, and intelligent systems.  
+  With solid experience in full-stack development and a strong focus on AI and computer vision,  
+  I build solutions that connect modern web technologies with cutting-edge machine learning.    
+  Always learning, always creating. 🚀
+</p>
+
 - 🌱 Software Engineer graduated from **UniBrasil** 
 - 🏢 Currently working at **KPERCON SISTEMAS** and **Stylest.IA**
 
