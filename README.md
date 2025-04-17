@@ -9,6 +9,7 @@
 
 - 🌱 Software Engineer graduated from **UniBrasil** 
 - 🏢 Currently working at **KPERCON SISTEMAS** and **Stylest.IA**
+- 🧠 Currently learning: Advanced computer vision (object tracking, generative models), Docker, English, and Japanese 🇯🇵 (毎日練習してる！)
 
 <div align="center">
   <a href="https://github.com/LuisGHM">
