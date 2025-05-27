@@ -3,12 +3,13 @@
 <p align="center">
   I'm a Software Engineer passionate about turning complex ideas into elegant, efficient, and intelligent systems.  
   With solid experience in full-stack development and a strong focus on AI and computer vision,  
-  I build solutions that connect modern web technologies with cutting-edge machine learning.    
+  I build solutions that connect modern web technologies with cutting-edge machine learning.  
   Always learning, always creating. 🚀
 </p>
 
-- 🌱 Software Engineer graduated from **UniBrasil** 
-- 🏢 Currently working at **KPERCON SISTEMAS** and **Stylest.IA**
+- 🌱 Software Engineer graduated from **UniBrasil**  
+- 🎓 Currently pursuing a **Master’s degree** in Electrical and Industrial Informatics Engineering (**CPGEI**) at **UTFPR**, focusing on **computer vision**  
+- 🏢 Currently working at **KPERCON SISTEMAS** and **Stylest.IA**  
 - 🧠 Currently learning: Advanced computer vision (object tracking, generative models), Docker, English, and Japanese 🇯🇵 (毎日練習してる！)
 
 <div align="center">
@@ -60,8 +61,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
 </div>
 
-
 ## 📫 How to Find Me 
+
 <div align="left">
   <a href="mailto:lgmarchioreh@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
@@ -73,4 +74,3 @@
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=Google%20Chrome&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
 </div>
-
